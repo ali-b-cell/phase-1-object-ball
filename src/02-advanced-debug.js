@@ -11,7 +11,7 @@ function goodPractices() {
     let teamObj = game[gameKey]
     for (let teamKey in teamObj) {
       // are you ABSOLUTELY SURE what 'teamKey' is?
-      // use debugger to find out!
+       //use debugger to find out!
       debugger
 
       // what is 'data' at each loop through out this block?
